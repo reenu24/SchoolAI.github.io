@@ -4,7 +4,6 @@ title: School AI Blog
 ---
 
 <link rel="stylesheet" href="/assets/style.css">
-
 <div class="hero">
   <img src="./banner.jpg" alt="Banner">
 
