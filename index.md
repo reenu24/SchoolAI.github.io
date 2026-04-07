@@ -36,3 +36,8 @@ This is a **modern school blog** where students learn:
 ## 🌟 Special Highlight
 
 **Students aged 5–12 are getting free AI training**, helping them build projects and win hackathons 🏆
+---
+
+## 🎥 Watch AI in Action
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
