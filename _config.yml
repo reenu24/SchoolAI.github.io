@@ -3,3 +3,6 @@ header_pages:
 title: School AI Blog 🤖
 description: AI aur coding ke baare me best content
 theme: minima
+
+minima:
+  skin: dark
