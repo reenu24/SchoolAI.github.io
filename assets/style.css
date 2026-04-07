@@ -1,8 +1,9 @@
 body {
-  scroll-behavior: smooth;
-  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
 }
 
+/* Hero */
 .hero {
   text-align: center;
   padding: 50px 20px;
@@ -10,42 +11,29 @@ body {
 
 .hero img {
   width: 100%;
-  border-radius: 12px;
 }
 
-.hero-title {
-  font-size: 2.5em;
-  margin-top: 20px;
+/* Button */
+.btn {
+  display: inline-block;
+  padding: 12px 20px;
+  background: orange;
+  color: black;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
 }
 
-.section {
-  margin-top: 60px;
-}
-
+/* Cards */
 .cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  display: flex;
   gap: 20px;
+  margin-top: 20px;
 }
 
 .card {
+  background: red;
   padding: 20px;
-  border-radius: 12px;
-  background: #1e1e1e;
-  color: white;
-  transition: 0.3s;
-}
-
-.card:hover {
-  transform: translateY(-10px);
-}
-
-.btn {
-  display: inline-block;
-  margin-top: 20px;
-  padding: 10px 20px;
-  background: #ff5722;
-  color: white;
-  border-radius: 8px;
-  text-decoration: none;
+  border-radius: 10px;
+  flex: 1;
 }
