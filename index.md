@@ -1,6 +1,9 @@
 ---
 layout: home
-title: Welcome
+title: Welcome---
+layout: home
+title: Home
+---
 ---
 
 Hello! My blog is live 🚀
