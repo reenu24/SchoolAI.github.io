@@ -1,22 +1,3 @@
----
-layout: home
-title: School AI Blog
----
-
-<div align="center">
-
-<img src="./banner.jpg" width="100%">
-
-# 🏫 School AI Blog
-
-Learn AI, coding and technology in a fun way 🚀  
-
-<a href="#posts">🚀 Explore Posts</a>
-
-</div>
-
----
-
 ## 👤 About This Blog
 
 This is a **modern school blog** where students learn:
@@ -31,24 +12,27 @@ This is a **modern school blog** where students learn:
 
 ## 🎓 What Students Learn
 
-- 🤖 AI Basics  
-- 💻 Coding  
-- 🏆 Hackathons  
+<div class="cards">
+
+<div class="card">
+<h3>🤖 AI Basics</h3>
+<p>Start learning Artificial Intelligence easily</p>
+</div>
+
+<div class="card">
+<h3>💻 Coding</h3>
+<p>Build fun and useful projects</p>
+</div>
+
+<div class="card">
+<h3>🏆 Hackathons</h3>
+<p>Participate and win competitions</p>
+</div>
+
+</div>
 
 ---
 
 ## 🌟 Special Highlight
 
-**Students aged 5–12 are getting free AI training**, helping them build projects and win hackathons 🏆  
-
----
-
-## 🎥 Watch AI in Action
-
-[▶️ Watch Video on YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
----
-
-## 📚 Latest Blog Posts
-
-<div id="posts"></div>
+**Students aged 5–12 are getting free AI training**, helping them build projects and win hackathons 🏆
