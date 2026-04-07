@@ -1,9 +1,8 @@
 ---
 layout: home
-title: Welcome---
-layout: home
-title: Home
+title: 👋 Welcome to School AI Blog
 ---
----
+
+## 🚀 Latest Posts
 
 Hello! ZPH School First blog is live 🚀
