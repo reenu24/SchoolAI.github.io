@@ -1,8 +1,10 @@
+title: School AI Blog 🤖
+description: Learn AI, coding and technology easily
+
+theme: minima
+
 header_pages:
   - about.md
-title: School AI Blog 🤖
-description: AI aur coding ke baare me best content
-theme: minima
 
 minima:
   skin: dark
