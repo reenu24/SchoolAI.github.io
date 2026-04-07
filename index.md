@@ -6,4 +6,4 @@ title: Home
 ---
 ---
 
-Hello! My blog is live 🚀
+Hello! ZPH School First blog is live 🚀
