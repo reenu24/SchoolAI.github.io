@@ -15,7 +15,7 @@ title: School AI Blog
   <a href="#posts" class="btn">🚀 Explore Posts</a>
 </div>
 
----
+<hr>
 
 <div class="section">
 
@@ -33,7 +33,7 @@ title: School AI Blog
 
 </div>
 
----
+<hr>
 
 <div class="section">
 
@@ -60,7 +60,7 @@ title: School AI Blog
 
 </div>
 
----
+<hr>
 
 <div class="section">
 
@@ -70,7 +70,7 @@ title: School AI Blog
 
 </div>
 
----
+<hr>
 
 <div class="section">
 
@@ -90,7 +90,7 @@ title: School AI Blog
 
 </div>
 
----
+<hr>
 
 <div class="section" id="posts">
 
