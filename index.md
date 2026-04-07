@@ -1,8 +1,14 @@
 ---
-layout: home
-title: 👋 Welcome to School AI Blog
+layout: default
+title: Home
 ---
 
-## 🚀 Latest Posts
+![School AI Banner](./banner.jpg)
 
-Hello! ZPH School First blog is live 🚀
+# 👋 Welcome to School AI Blog
+
+Learn AI, coding and technology in a simple way 🚀  
+
+---
+
+## 📚 Latest Posts
