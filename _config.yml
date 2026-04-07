@@ -1,4 +1,5 @@
 header_pages:
   - about.md
-minima:
-  skin: dark
+title: School AI Blog 🤖
+description: AI aur coding ke baare me best content
+theme: minima
