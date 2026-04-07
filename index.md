@@ -1,13 +1,12 @@
 ---
-layout: default
-title: Home
+layout: home
+title: 👋 Welcome to School AI Blog
 ---
 
-![School AI Banner](./banner.jpg)
+![Banner](./banner.jpg)
 
-# 👋 Welcome to School AI Blog
-
-Learn AI, coding and technology in a simple way 🚀  
+## 🤖 About This Blog
+This blog shares stories about AI, coding, and young innovators 🚀  
 
 ---
 
