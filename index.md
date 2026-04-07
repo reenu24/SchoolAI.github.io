@@ -4,6 +4,7 @@ title: School AI Blog
 ---
 
 <style>
+
 body {
   scroll-behavior: smooth;
 }
@@ -73,7 +74,9 @@ body {
     transform: translateY(0);
   }
 }
+
 </style>
+
 
 <div class="hero">
   <img src="./banner.jpg" alt="School Banner">
@@ -145,14 +148,16 @@ This is a **modern school blog** where students learn:
 ## 🎥 Watch AI in Action
 
 <div>
-  <iframe 
-    width="100%" 
-    height="400" 
-    src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
-    title="YouTube video"
-    frameborder="0" 
-    allowfullscreen>
-  </iframe>
+
+<iframe 
+  width="100%" 
+  height="400" 
+  src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+  title="YouTube video"
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
+
 </div>
 
 </div>
