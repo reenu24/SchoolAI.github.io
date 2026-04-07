@@ -1,10 +1,10 @@
+
 ---
-layout: home
+layout: default
 title: School AI Blog
 ---
 
-<link rel="stylesheet" href="/assets/style.css">
-
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 
 <div class="hero">
   <img src="./banner.jpg" alt="Banner">
