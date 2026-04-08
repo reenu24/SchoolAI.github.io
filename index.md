@@ -95,10 +95,4 @@ This is a **modern school blog** where students learn:
 
 <h2>📚 Latest Blog Posts</h2>
 
-<ul>
-  <li><a href="/2026/04/08/ai-hackathon-win.html">AI Hackathon Win 🏆</a></li>
-  <li><a href="/2026/04/08/free-ai-training.html">Free AI Training 🎓</a></li>
-  <li><a href="/2026/04/08/student-ai-project.html">Student AI Project 🤖</a></li>
-</ul>
-
 </div>
