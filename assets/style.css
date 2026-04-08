@@ -59,3 +59,24 @@ body {
 .btn:hover {
   background: #0d47a1; /* darker blue on hover */
 }
+/* Navbar */
+.site-header {
+  background: white;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.site-title {
+  font-weight: bold;
+  color: #007bff;
+}
+
+.site-nav a {
+  margin-left: 15px;
+  color: #333;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.site-nav a:hover {
+  color: #007bff;
+}
