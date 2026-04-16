@@ -7,15 +7,10 @@ title: School AI Blog
 
 <div class="hero">
   <img src="./banner.jpg" alt="Banner">
-
   <div class="hero-title">🏫 School AI Blog</div>
-
   <p>Learn AI, coding and technology in a fun way 🚀</p>
-
   <a href="#posts" class="btn">🚀 Explore Posts</a>
 </div>
-
-<div class="section">
 
 ## 👤 About This Blog
 
@@ -25,11 +20,9 @@ This is a **modern school blog** where students learn:
 - 💻 Coding  
 - 🌐 Technology  
 
-> 🚀 Making learning fun and future-ready!
+🚀 Making learning fun and future-ready!
 
-</div>
-
-<div class="section">
+---
 
 ## 🎓 What Students Learn
 
@@ -52,37 +45,25 @@ This is a **modern school blog** where students learn:
 
 </div>
 
-</div>
-
-<div class="section">
+---
 
 ## 🌟 Special Highlight
 
 **Students aged 5–12 are getting free AI training**, helping them build projects and win hackathons 🏆  
 
-</div>
-
-<div class="section">
+---
 
 ## 🎥 Watch AI in Action
-
-<div>
 
 <iframe 
   width="100%" 
   height="400" 
   src="https://www.youtube.com/embed/7pK9QNQfyYQ"
-
   frameborder="0" 
   allowfullscreen>
 </iframe>
 
-</div>
+---
 
-</div>
-
-<div class="section" id="posts">
-
-<h2>📚 Latest Blog Posts</h2>
-
-</div>
+## 📚 Latest Blog Posts
+<div id="posts"></div>
