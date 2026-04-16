@@ -3,6 +3,8 @@ description: Learn AI, coding and technology easily
 
 theme: minima
 
+baseurl: "/SchoolAI.github.io"   # 👈 ye add karo
+
 header_pages:
   - index.md
   - about.md
