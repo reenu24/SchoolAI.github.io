@@ -1,6 +1,6 @@
 ---
 layout: home
-title: School AI Blog
+title: Home
 ---
 
 <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
