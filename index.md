@@ -1,6 +1,5 @@
-
 ---
-layout: default
+layout: home
 title: School AI Blog
 ---
 
@@ -16,8 +15,6 @@ title: School AI Blog
   <a href="#posts" class="btn">🚀 Explore Posts</a>
 </div>
 
----
-
 <div class="section">
 
 ## 👤 About This Blog
@@ -31,8 +28,6 @@ This is a **modern school blog** where students learn:
 > 🚀 Making learning fun and future-ready!
 
 </div>
-
----
 
 <div class="section">
 
@@ -59,8 +54,6 @@ This is a **modern school blog** where students learn:
 
 </div>
 
----
-
 <div class="section">
 
 ## 🌟 Special Highlight
@@ -68,8 +61,6 @@ This is a **modern school blog** where students learn:
 **Students aged 5–12 are getting free AI training**, helping them build projects and win hackathons 🏆  
 
 </div>
-
----
 
 <div class="section">
 
@@ -88,8 +79,6 @@ This is a **modern school blog** where students learn:
 </div>
 
 </div>
-
----
 
 <div class="section" id="posts">
 
