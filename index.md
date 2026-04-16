@@ -71,7 +71,8 @@ This is a **modern school blog** where students learn:
 <iframe 
   width="100%" 
   height="400" 
-  src="https://youtu.be/7pK9QNQfyYQ?si=37daW5qVCw8gan9-"
+  src="https://www.youtube.com/embed/7pK9QNQfyYQ"
+
   frameborder="0" 
   allowfullscreen>
 </iframe>
